@@ -1,0 +1,25 @@
+﻿/*---------------------------------------------------------------------------------------------
+
+				Informações do código
+	
+							
+    - Trabalho desenvolvido no projeto de ensino: "Desenvolver matérias didático que 
+	  
+      estabelecem pontes conceituais entre as disciplinas de "Lógica para computação",
+	  
+      "Teoria da Computação" e "Compiladores".
+	
+    - Orientador: César Alberto Bravo Pariente
+	
+    - Autor: Ícaro Andrade Souza
+	
+    - Data: 20/05/2014
+	
+    - Email: ICARO-ANDRADE1@HOTMAIL.COM
+
+    - Objetivo: Código de um LBA Determinístico que reconhece Fórmulas bem formada
+		de uma linguagem equivalente a da lógica proposicional, só que está
+		não possue ambiguidade. O código roda no simulador de LBA determinístico 
+		cujo código encontrasse neste link: 
+		https://github.com/icaro-andrade1/Simulador-de-LBA-Deterministico.
+---------------------------------------------------------------------------------------------*/
